@@ -1,4 +1,4 @@
-# coinsgods-upvotes
+# coinsgods-upvoting-bot
 
 Coinsgods.com votes
 
